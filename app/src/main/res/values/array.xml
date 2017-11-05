@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_list">
+        <item>@string/aud</item>
+        <item>@string/brl</item>
+        <item>@string/cad</item>
+        <item>@string/chf</item>
+        <item>@string/cny</item>
+        <item>@string/eur</item>
+        <item>@string/gbp</item>
+        <item>@string/hkd</item>
+        <item>@string/inr</item>
+        <item>@string/jpy</item>
+        <item>@string/krw</item>
+        <item>@string/mxn</item>
+        <item>@string/ngn</item>
+        <item>@string/nok</item>
+        <item>@string/nzd</item>
+        <item>@string/rub</item>
+        <item>@string/sek</item>
+        <item>@string/sgd</item>
+        <item>@string/usd</item>
+        <item>@string/zar</item>
+    </string-array>
+
+    <string-array name="currency_symbols_array">
+        <item>@string/aud_symbol</item>
+        <item>@string/brl_symbol</item>
+        <item>@string/cad_symbol</item>
+        <item>@string/chf_symbol</item>
+        <item>@string/cny_symbol</item>
+        <item>@string/eur_symbol</item>
+        <item>@string/gbp_symbol</item>
+        <item>@string/hkd_symbol</item>
+        <item>@string/inr_symbol</item>
+        <item>@string/jpy_symbol</item>
+        <item>@string/krw_symbol</item>
+        <item>@string/mxn_symbol</item>
+        <item>@string/ngn_symbol</item>
+        <item>@string/nok_symbol</item>
+        <item>@string/nzd_symbol</item>
+        <item>@string/rub_symbol</item>
+        <item>@string/sek_symbol</item>
+        <item>@string/sgd_symbol</item>
+        <item>@string/usd_symbol</item>
+        <item>@string/zar_symbol</item>
+    </string-array>
+</resources>

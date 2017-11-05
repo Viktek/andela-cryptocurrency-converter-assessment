@@ -120,7 +120,7 @@ public class ConversionActivity extends AppCompatActivity implements View.OnClic
         }
 
     }
-
+//==============
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
         Log.e("pos", String.valueOf(position));

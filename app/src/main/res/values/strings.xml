@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CryptoConverter</string>
+    <string name="spinner_currency_text">Choose base currency:</string>
+    <string name="conversion_button_text">Conversion calculator</string>
+
+    <!--currency strings-->
+    <string name="aud">AUD(Australian dollar)</string>
+    <string name="brl">BRL(Brazilian real)</string>
+    <string name="cad">CAD(Canadian dollar)</string>
+    <string name="chf">CHF(Swiss franc)</string>
+    <string name="cny">CNY(Chinese Yuan Renminbi)</string>
+    <string name="eur">EUR(European Euro)</string>
+    <string name="gbp">GBP(Pound sterling)</string>
+    <string name="hkd">HKD(Hong Kong dollar)</string>
+    <string name="inr">INR(Indian rupee)</string>
+    <string name="jpy">JPY(Japanese yen)</string>
+    <string name="krw">KRW(South Korean won)</string>
+    <string name="mxn">MXN(Mexican peso)</string>
+    <string name="ngn">NGN(Naira)</string>
+    <string name="nok">NOK(Norwegian krone)</string>
+    <string name="nzd">NZD(New Zealand dollar)</string>
+    <string name="rub">RUB(Russian ruble)</string>
+    <string name="sek">SEK(Swedish krona)</string>
+    <string name="sgd">SGD(Singapore dollar)</string>
+    <string name="usd">USD(US dollar)</string>
+    <string name="zar">ZAR(South African rand)</string>
+    <string name="title_activity_conversion">ConversionActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--currency symbol char string-->
+    <string name="aud_symbol">A\u0024</string>
+    <string name="brl_symbol">R\u0024</string>
+    <string name="cad_symbol">C\u0024</string>
+    <string name="chf_symbol">\u20A3</string>
+    <string name="cny_symbol">\u00A5</string>
+    <string name="eur_symbol">\u20AC</string>
+    <string name="gbp_symbol">\u00A3</string>
+    <string name="hkd_symbol">HK\u0024</string>
+    <string name="inr_symbol">\u20B9</string>
+    <string name="jpy_symbol">\u00A5</string>
+    <string name="krw_symbol">\u20A9</string>
+    <string name="mxn_symbol">\u20B1</string>
+    <string name="ngn_symbol">\u20A6</string>
+    <string name="nok_symbol">kr</string>
+    <string name="nzd_symbol">NZ\u0024</string>
+    <string name="rub_symbol">\u20BD</string>
+    <string name="sek_symbol">kr</string>
+    <string name="sgd_symbol">S\u0024</string>
+    <string name="usd_symbol">\u0024</string>
+    <string name="zar_symbol">R</string>
+
+</resources>
